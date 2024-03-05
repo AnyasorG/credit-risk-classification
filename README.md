@@ -86,7 +86,7 @@ v. **Evaluation and Comparison:**
 
 11. Report
 
-- The detailed written report is located at [GitHub Repository] (https://github.com/AnyasorG/credit-risk-classification.git).
+- The detailed written report file named loan_risk_prediction_report.md is located at [GitHub Repository] (https://github.com/AnyasorG/credit-risk-classification.git).
 
 10. Author
 - Godswill Anyasor 
