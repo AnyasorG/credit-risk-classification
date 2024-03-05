@@ -78,7 +78,7 @@ v. **Evaluation and Comparison:**
 
 8. License
 
-- This project is open-source and is made available under the terms of the MIT License. For the full details of the MIT License, please refer to MIT License](https://choosealicense.com/licenses/mit/).
+- This project is open-source and is made available under the terms of the MIT License. For the full details of the MIT License, please refer to MIT [License](https://choosealicense.com/licenses/mit/).
 
 9. Summary
 
@@ -86,7 +86,7 @@ v. **Evaluation and Comparison:**
 
 11. Report
 
-- The detailed written report is located at[GitHub Repository](https://github.com/AnyasorG/credit-risk-classification.git).
+- The detailed written report is located at [GitHub Repository] (https://github.com/AnyasorG/credit-risk-classification.git).
 
 10. Author
 - Godswill Anyasor 
