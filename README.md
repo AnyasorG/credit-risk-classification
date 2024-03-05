@@ -1,4 +1,4 @@
-# Module 12 Challenge
+# Module 20 Challenge
 
 ## Loan Risk Prediction Models for Informed Lending Decisions
 
