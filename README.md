@@ -72,9 +72,9 @@ v. **Evaluation and Comparison:**
 
 - Parts of the code were adapted from documentation and resources such as:
 
-    - scikit-learn documentation
-    - pandas documentation
-    - numpy documentation
+    - scikit-learn documentation-https://scikit-learn.org/stable/tutorial/index.html
+    - pandas documentation-https://pandas.pydata.org/docs/
+    - numpy documentation-https://numpy.org/doc/
 
 8. License
 
